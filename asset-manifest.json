@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/robtapp/static/css/main.fb8e38e2.css",
+    "main.js": "/robtapp/static/js/main.a61c57d3.js",
+    "static/js/787.23aa6deb.chunk.js": "/robtapp/static/js/787.23aa6deb.chunk.js",
+    "index.html": "/robtapp/index.html",
+    "main.fb8e38e2.css.map": "/robtapp/static/css/main.fb8e38e2.css.map",
+    "main.a61c57d3.js.map": "/robtapp/static/js/main.a61c57d3.js.map",
+    "787.23aa6deb.chunk.js.map": "/robtapp/static/js/787.23aa6deb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb8e38e2.css",
+    "static/js/main.a61c57d3.js"
+  ]
+}
